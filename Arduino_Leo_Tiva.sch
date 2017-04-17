@@ -39,9 +39,9 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Arduino-Tiva-TM4C123G"
-Date ""
-Rev "v0.1"
-Comp ""
+Date "2017-04-17"
+Rev "v1.0"
+Comp "Jacob Miller"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -54,7 +54,9 @@ P 5450 3300
 F 0 "U1" H 4200 5300 50  0000 L CNN
 F 1 "TM4C123GH6PM" H 6100 5300 50  0000 L CNN
 F 2 "Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm" H 5450 3300 50  0001 C CIN
-F 3 "" H 5450 3500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf" H 5450 3500 50  0001 C CNN
+F 4 "ARM® Cortex®-M4F Tiva™ C Microcontroller IC 32-Bit 80MHz 256KB (256K x 8) FLASH 64-LQFP (10x10)" H 5450 3300 60  0001 C CNN "Description"
+F 5 "TM4C123GH6PMI7" H 5450 3300 60  0001 C CNN "Part #"
 	1    5450 3300
 	1    0    0    -1  
 $EndComp
@@ -77,7 +79,9 @@ P 1500 2650
 F 0 "R1" V 1580 2650 50  0000 C CNN
 F 1 "10k" V 1500 2650 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 1430 2650 50  0001 C CNN
-F 3 "" H 1500 2650 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1002V+7+WW" H 1500 2650 50  0001 C CNN
+F 4 "10k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" V 1500 2650 60  0001 C CNN "Description"
+F 5 "ERJ-3EKF1002V" V 1500 2650 60  0001 C CNN "Part #"
 	1    1500 2650
 	1    0    0    -1  
 $EndComp
@@ -112,6 +116,7 @@ F 1 "32.768Khz" H 2750 4800 50  0000 C CNN
 F 2 "Crystals_Local:Crystal_DS26_d2.0mm_l6.0mm_Horizontal_1EP_style1" H 2750 4950 50  0001 C CNN
 F 3 "http://cfd.citizen.co.jp/english/prod-tech/product/pdf/datasheet_TF/CFS-145%20CFS-206%20CFV-206_E.pdf" H 2750 4950 50  0001 C CNN
 F 4 "CFS-20632768HZFB" H 2750 4950 60  0001 C CNN "Part #"
+F 5 "32.768kHz ±5ppm Crystal 12.5pF 35 kOhm -20°C ~ 70°C Through Hole Cylindrical Can, Radial" H 2750 4950 60  0001 C CNN "Description"
 	1    2750 4950
 	1    0    0    -1  
 $EndComp
@@ -122,7 +127,9 @@ P 2400 4650
 F 0 "C1" H 2410 4720 50  0000 L CNN
 F 1 "24pF" H 2410 4570 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2400 4650 50  0001 C CNN
-F 3 "" H 2400 4650 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf" H 2400 4650 50  0001 C CNN
+F 4 "24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603" H 2400 4650 60  0001 C CNN "Description"
+F 5 "CC0603JRNPO9BN240" H 2400 4650 60  0001 C CNN "Part #"
 	1    2400 4650
 	0    -1   -1   0   
 $EndComp
@@ -177,7 +184,9 @@ P 3100 3650
 F 0 "C4" H 3110 3720 50  0000 L CNN
 F 1 "10pF" H 3110 3570 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 3100 3650 50  0001 C CNN
-F 3 "" H 3100 3650 50  0001 C CNN
+F 3 "https://www.digikey.com/catalog/en/partgroup/c0g-np0-dielectric-commercial-grade/3830?mpart=C0603C100J5GACTU&vendor=399" H 3100 3650 50  0001 C CNN
+F 4 "CAP CER 10PF 50V C0G/NP0 0603" H 3100 3650 60  0001 C CNN "Description"
+F 5 "C0603C100J5GACTU" H 3100 3650 60  0001 C CNN "Part #"
 	1    3100 3650
 	1    0    0    -1  
 $EndComp
@@ -188,7 +197,9 @@ P 2400 3650
 F 0 "C3" H 2410 3720 50  0000 L CNN
 F 1 "10pF" H 2410 3570 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2400 3650 50  0001 C CNN
-F 3 "" H 2400 3650 50  0001 C CNN
+F 3 "https://www.digikey.com/catalog/en/partgroup/c0g-np0-dielectric-commercial-grade/3830?mpart=C0603C100J5GACTU&vendor=399" H 2400 3650 50  0001 C CNN
+F 4 "24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603" H 2400 3650 60  0001 C CNN "Description"
+F 5 "C0603C100J5GACTU" H 2400 3650 60  0001 C CNN "Part #"
 	1    2400 3650
 	1    0    0    -1  
 $EndComp
@@ -201,6 +212,7 @@ F 1 "16MHz" H 2750 3300 50  0000 C CNN
 F 2 "Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering" H 2750 3450 50  0001 C CNN
 F 3 "http://www.ndk.com/images/products/catalog/c_NX5032GA_e.pdf" H 2750 3450 50  0001 C CNN
 F 4 "NX5032GA-16MHZ-STD-CSK-4" H 2750 3450 60  0001 C CNN "Part #"
+F 5 "16MHz ±20ppm Crystal 8pF 50 Ohm -10°C ~ 70°C Surface Mount 2-SMD, No Lead" H 2750 3450 60  0001 C CNN "Description"
 	1    2750 3450
 	1    0    0    -1  
 $EndComp
@@ -256,7 +268,7 @@ F 0 "C5" H 8210 1170 50  0000 L CNN
 F 1 "0.1uF" H 8210 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 8200 1100 50  0001 C CNN
 F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf" H 8200 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8200 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8200 1100 60  0001 C CNN "Description"
 F 5 "CC0603JRX7R8BB104" H 8200 1100 60  0001 C CNN "Part #"
 	1    8200 1100
 	1    0    0    -1  
@@ -269,7 +281,7 @@ F 0 "C6" H 8510 1170 50  0000 L CNN
 F 1 "22.0uF" H 8510 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 8500 1100 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/library/product-catalog/__icsFiles/afieldfile/2016/09/27/MLCC.pdf" H 8500 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8500 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8500 1100 60  0001 C CNN "Description"
 F 5 "CL21A226MOCLRNC" H 8500 1100 60  0001 C CNN "Part #"
 	1    8500 1100
 	1    0    0    -1  
@@ -282,7 +294,8 @@ F 0 "C8" H 9110 1170 50  0000 L CNN
 F 1 "22.0uF" H 9110 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 9100 1100 50  0001 C CNN
 F 3 "" H 9100 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9100 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9100 1100 60  0001 C CNN "Description"
+F 5 "CL21A226MOCLRNC" H 9100 1100 60  0001 C CNN "Part #"
 	1    9100 1100
 	1    0    0    -1  
 $EndComp
@@ -294,7 +307,8 @@ F 0 "C10" H 9710 1170 50  0000 L CNN
 F 1 "22.0uF" H 9710 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 9700 1100 50  0001 C CNN
 F 3 "" H 9700 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9700 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9700 1100 60  0001 C CNN "Description"
+F 5 "CL21A226MOCLRNC" H 9700 1100 60  0001 C CNN "Part #"
 	1    9700 1100
 	1    0    0    -1  
 $EndComp
@@ -305,7 +319,9 @@ P 10450 4150
 F 0 "R2" V 10530 4150 50  0000 C CNN
 F 1 "1M" V 10450 4150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 10380 4150 50  0001 C CNN
-F 3 "" H 10450 4150 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C283.pdf" H 10450 4150 50  0001 C CNN
+F 4 "1M Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" V 10450 4150 60  0001 C CNN "Description"
+F 5 "ERJ-3EKF1004V" V 10450 4150 60  0001 C CNN "Part #"
 	1    10450 4150
 	0    1    1    0   
 $EndComp
@@ -328,6 +344,8 @@ F 0 "U2" H 1750 1400 50  0000 C CNN
 F 1 "LM1117IMPX-3.3" H 2150 1400 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD_Local:SOT-223-3Lead_TabPin2" H 2000 1300 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 2000 1200 50  0001 C CNN
+F 4 "Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4" H 2000 1200 60  0001 C CNN "Description"
+F 5 "LM1117IMPX-3.3/NOPB" H 2000 1200 60  0001 C CNN "Part #"
 	1    2000 1200
 	1    0    0    -1  
 $EndComp
@@ -349,7 +367,9 @@ P 2550 1400
 F 0 "R3" V 2630 1400 50  0000 C CNN
 F 1 "75" V 2550 1400 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2480 1400 50  0001 C CNN
-F 3 "" H 2550 1400 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF75R0V+7+WW" H 2550 1400 50  0001 C CNN
+F 4 "75 Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" V 2550 1400 60  0001 C CNN "Description"
+F 5 "ERJ-3EKF75R0V" V 2550 1400 60  0001 C CNN "Part #"
 	1    2550 1400
 	1    0    0    -1  
 $EndComp
@@ -361,10 +381,9 @@ F 0 "D1" H 2550 1900 50  0000 C CNN
 F 1 "Green" H 2550 1700 50  0000 C CNN
 F 2 "LEDs:LED_0805" H 2550 1800 50  0001 C CNN
 F 3 "http://www.osram-os.com/Graphics/XPic9/00078860_0.pdf" H 2550 1800 50  0001 C CNN
-F 4 "2.2V" H 2550 1800 60  0001 C CNN "Vf"
-F 5 "20mA" H 2550 1800 60  0001 C CNN "Current "
-F 6 "LED GREEN DIFFUSED 0805 SMD" H 2550 1800 60  0001 C CNN "Description"
-F 7 "LG R971-KN-1" H 2550 1800 60  0001 C CNN "Part #"
+F 4 "20mA" H 2550 1800 60  0001 C CNN "Current "
+F 5 "Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric)" H 2550 1800 60  0001 C CNN "Description"
+F 6 "LG R971-KN-1" H 2550 1800 60  0001 C CNN "Part #"
 	1    2550 1800
 	0    -1   -1   0   
 $EndComp
@@ -790,7 +809,8 @@ F 0 "C7" H 8810 1170 50  0000 L CNN
 F 1 "0.1uF" H 8810 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 8800 1100 50  0001 C CNN
 F 3 "" H 8800 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8800 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 8800 1100 60  0001 C CNN "Description"
+F 5 "CC0603JRX7R8BB104" H 8800 1100 60  0001 C CNN "Part #"
 	1    8800 1100
 	1    0    0    -1  
 $EndComp
@@ -802,7 +822,8 @@ F 0 "C9" H 9410 1170 50  0000 L CNN
 F 1 "0.1uF" H 9410 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 9400 1100 50  0001 C CNN
 F 3 "" H 9400 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9400 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 9400 1100 60  0001 C CNN "Description"
+F 5 "CC0603JRX7R8BB104" H 9400 1100 60  0001 C CNN "Part #"
 	1    9400 1100
 	1    0    0    -1  
 $EndComp
@@ -1320,6 +1341,7 @@ F 2 "Connectors_USB_Local:USB_Micro_B_FCI_10118192" H 9350 5400 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/FCI%20PDFs/10118192-0001LF_Webpage.PDF" H 9350 5400 50  0001 C CNN
 F 4 "10118192-0001LF" H 9200 5450 60  0001 C CNN "Part #"
 F 5 "http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf" H 9200 5450 60  0001 C CNN "Drawing"
+F 6 "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle" H 9200 5450 60  0001 C CNN "Description"
 	1    9200 5450
 	1    0    0    -1  
 $EndComp
@@ -1331,7 +1353,8 @@ F 0 "C16" H 10310 1170 50  0000 L CNN
 F 1 "22.0uF" H 10310 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 10300 1100 50  0001 C CNN
 F 3 "" H 10300 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 10300 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 10300 1100 60  0001 C CNN "Description"
+F 5 "CL21A226MOCLRNC" H 10300 1100 60  0001 C CNN "Part #"
 	1    10300 1100
 	1    0    0    -1  
 $EndComp
@@ -1343,7 +1366,8 @@ F 0 "C15" H 10010 1170 50  0000 L CNN
 F 1 "0.1uF" H 10010 1020 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 10000 1100 50  0001 C CNN
 F 3 "" H 10000 1100 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 10000 1100 60  0001 C CNN "Type"
+F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 10000 1100 60  0001 C CNN "Description"
+F 5 "CC0603JRX7R8BB104" H 10000 1100 60  0001 C CNN "Part #"
 	1    10000 1100
 	1    0    0    -1  
 $EndComp
@@ -1364,7 +1388,9 @@ P 1200 2900
 F 0 "R4" V 1280 2900 50  0000 C CNN
 F 1 "100" V 1200 2900 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 1130 2900 50  0001 C CNN
-F 3 "" H 1200 2900 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C283.pdf" H 1200 2900 50  0001 C CNN
+F 4 "100 Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" V 1200 2900 60  0001 C CNN "Description"
+F 5 "ERJ-3EKF1000V" V 1200 2900 60  0001 C CNN "Part #"
 	1    1200 2900
 	0    1    1    0   
 $EndComp
@@ -1415,8 +1441,9 @@ P 2900 1400
 F 0 "C17" H 2925 1500 50  0000 L CNN
 F 1 "22.0uF" H 2925 1300 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand" H 2938 1250 50  0001 C CNN
-F 3 "" H 2900 1400 50  0001 C CNN
-F 4 "Tantalum" H 2900 1400 60  0001 C CNN "Type"
+F 3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf" H 2900 1400 50  0001 C CNN
+F 4 "22µF ±10% Molded Tantalum Capacitors 16V 2413 (6032 Metric) 1.6 Ohm" H 2900 1400 60  0001 C CNN "Description"
+F 5 "T491C226K016AT" H 2900 1400 60  0001 C CNN "Part #"
 	1    2900 1400
 	1    0    0    -1  
 $EndComp

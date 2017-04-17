@@ -3,7 +3,7 @@
   (general
     (links 134)
     (no_connects 1)
-    (area 110.922999 73.584999 179.653001 125.805001)
+    (area 15.113 14.2785 185.635859 131.540001)
     (thickness 1.6)
     (drawings 79)
     (tracks 621)
@@ -15,8 +15,8 @@
   (page USLetter)
   (title_block
     (title Arduino-Tiva-TM4C123G)
-    (date 2017-04-08)
-    (rev v0.1)
+    (date 2017-04-17)
+    (rev v1.0)
     (company "Jacob Miller")
   )
 
