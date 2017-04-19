@@ -1,19 +1,9 @@
-update=4/16/2017 11:13:45 PM
+update=4/18/2017 10:03:46 PM
 version=1
 last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -72,3 +62,13 @@ LibName32=C:/Users/Fuguru/Documents/Circuits/KiCad_Libraries/library/myParts
 LibName33=Arduino_As_Uno_R3/Arduino_As_Uno-cache
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
