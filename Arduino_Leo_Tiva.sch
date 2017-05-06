@@ -101,7 +101,7 @@ L HEADER_1 J3
 U 1 1 58E0078A
 P 1850 2650
 F 0 "J3" H 1850 2800 60  0000 C CNN
-F 1 "RST" H 1850 2500 60  0000 C CNN
+F 1 "~RST" H 1850 2500 60  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 1850 2650 60  0001 C CNN
 F 3 "" H 1850 2650 60  0000 C CNN
 	1    1850 2650
@@ -198,7 +198,7 @@ F 0 "C3" H 2410 3720 50  0000 L CNN
 F 1 "10pF" H 2410 3570 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2400 3650 50  0001 C CNN
 F 3 "https://www.digikey.com/catalog/en/partgroup/c0g-np0-dielectric-commercial-grade/3830?mpart=C0603C100J5GACTU&vendor=399" H 2400 3650 50  0001 C CNN
-F 4 "24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603" H 2400 3650 60  0001 C CNN "Description"
+F 4 "CAP CER 10PF 50V C0G/NP0 0603" H 2400 3650 60  0001 C CNN "Description"
 F 5 "C0603C100J5GACTU" H 2400 3650 60  0001 C CNN "Part #"
 	1    2400 3650
 	1    0    0    -1  
@@ -334,19 +334,6 @@ F 1 "+3.3V" H 10700 4190 50  0000 C CNN
 F 2 "" H 10700 4050 50  0001 C CNN
 F 3 "" H 10700 4050 50  0001 C CNN
 	1    10700 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L LT1129CST-3.3 U2
-U 1 1 58E05D8A
-P 2000 1200
-F 0 "U2" H 1750 1400 50  0000 C CNN
-F 1 "LM1117IMPX-3.3" H 2150 1400 50  0000 C CNN
-F 2 "TO_SOT_Packages_SMD_Local:SOT-223-3Lead_TabPin2" H 2000 1300 50  0001 C CIN
-F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 2000 1200 50  0001 C CNN
-F 4 "Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4" H 2000 1200 60  0001 C CNN "Description"
-F 5 "LM1117IMPX-3.3/NOPB" H 2000 1200 60  0001 C CNN "Part #"
-	1    2000 1200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -956,10 +943,10 @@ Wire Wire Line
 Wire Wire Line
 	2550 1550 2550 1650
 Wire Wire Line
-	2450 1150 2900 1150
+	2300 1150 2900 1150
 Connection ~ 2550 1150
 Wire Wire Line
-	2000 1500 2000 1650
+	2000 1450 2000 1650
 Wire Wire Line
 	2550 1950 2550 2100
 Wire Wire Line
@@ -1066,7 +1053,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 950  1250 1300
 Wire Wire Line
-	1100 1150 1550 1150
+	1100 1150 1700 1150
 Connection ~ 1250 1150
 Wire Wire Line
 	1900 6800 1450 6800
@@ -1496,4 +1483,18 @@ Wire Wire Line
 	9100 5850 9100 5900
 Wire Wire Line
 	9100 5900 9200 5900
+$Comp
+L LM1117-3.3 U2
+U 1 1 5908BBBE
+P 2000 1150
+F 0 "U2" H 2100 900 50  0000 C CNN
+F 1 "LM1117-3.3" H 2000 1400 50  0000 C CNN
+F 2 "TO_SOT_Packages_SMD_Local:SOT-223" H 2000 1150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 2000 1150 50  0001 C CNN
+F 4 "Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4" H 2000 1150 60  0001 C CNN "Description"
+	1    2000 1150
+	1    0    0    -1  
+$EndComp
+Text Notes 1800 800  0    60   ~ 0
+1 - Vin\n2 - Gnd\n3 - Vout
 $EndSCHEMATC
