@@ -16,9 +16,17 @@ _autosave-*
 *.net
 
 # Autorouter files (exported from Pcbnew)
-.dsn
+*.dsn
 
 # Exported BOM files
 *.xml
 *.csv
 *.tsv
+
+# Images
+
+
+# Misc
+*.zip
+*.pdf
+*.gz
