@@ -31,7 +31,6 @@ LIBS:valves
 LIBS:tm4c123gh6pm
 LIBS:embedded-microcontrollers
 LIBS:myParts
-LIBS:Arduino_As_Uno-cache
 LIBS:Arduino_Leo_Tiva-cache
 EELAYER 25 0
 EELAYER END
@@ -1497,4 +1496,26 @@ F 4 "Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4" H 2
 $EndComp
 Text Notes 1800 800  0    60   ~ 0
 1 - Vin\n2 - Gnd\n3 - Vout
+$Comp
+L LEGO_Hole P1
+U 1 1 5911A175
+P 4750 6850
+F 0 "P1" H 4750 7100 60  0000 C CNN
+F 1 "LEGO_Hole" H 4750 7000 60  0000 C CNN
+F 2 "Custom-Mounting-Holes:Lego-Hole" H 4750 6850 60  0001 C CNN
+F 3 "" H 4750 6850 60  0001 C CNN
+	1    4750 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L LEGO_Hole P2
+U 1 1 5911A212
+P 5350 6850
+F 0 "P2" H 5350 7100 60  0000 C CNN
+F 1 "LEGO_Hole" H 5350 7000 60  0000 C CNN
+F 2 "Custom-Mounting-Holes:Lego-Hole" H 5350 6850 60  0001 C CNN
+F 3 "" H 5350 6850 60  0001 C CNN
+	1    5350 6850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
