@@ -650,9 +650,9 @@ Text Label 3800 1600 2    60   ~ 0
 A2
 Text Label 3800 1500 2    60   ~ 0
 A3
-Text Label 7100 1500 0    60   ~ 0
-D1(VCP_TXD)
 Text Label 7100 1600 0    60   ~ 0
+D1(VCP_TXD)
+Text Label 7100 1500 0    60   ~ 0
 D0(VCP_RXD)
 Text Label 7100 3300 0    60   ~ 0
 DEBUG_TCK
