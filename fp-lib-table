@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Custon-Mounting-Holes)(type KiCad)(uri "$(KIPRJMOD)/Custon-Mounting-Holes.pretty")(options "")(descr ""))
+  (lib (name Custom-Mounting-Holes)(type KiCad)(uri "$(KIPRJMOD)/Custom-Mounting-Holes.pretty")(options "")(descr ""))
+  (lib (name Project-Symbols_Local)(type KiCad)(uri "$(KIPRJMOD)/KiCad/footprints.pretty")(options "")(descr ""))
 )

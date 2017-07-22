@@ -1,0 +1,12 @@
+(module ArduinoMountingHole_3.2mm_Oval (layer F.Cu) (tedit 5962EE76)
+  (fp_text reference REF** (at 0 -3.048) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
+  (fp_text value "Arduino Mounting Hole 3.2mm (0.125 in.)" (at 0 3.048) (layer Dwgs.User)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
+  (fp_line (start 1.27 -1.27) (end -1.27 1.27) (layer Dwgs.User) (width 0.01))
+  (fp_line (start -1.27 -1.27) (end 1.27 1.27) (layer Dwgs.User) (width 0.01))
+  (pad "" np_thru_hole oval (at 0 0) (size 4 3.2) (drill oval 4 3.2) (layers *.Cu *.SilkS *.Mask)
+    (solder_mask_margin 1) (clearance 1) (zone_connect 0))
+)
