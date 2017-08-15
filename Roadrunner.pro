@@ -1,4 +1,4 @@
-update=7/24/2017 9:48:15 PM
+update=8/14/2017 9:29:20 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -33,6 +33,8 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.15
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=../Roadrunner-TM4C123G
@@ -68,5 +70,3 @@ LibName28=contrib
 LibName29=valves
 LibName30=tm4c123gh6pm
 LibName31=KiCad/project_symbols
-[general]
-version=1
