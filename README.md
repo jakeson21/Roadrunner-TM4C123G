@@ -1,4 +1,4 @@
-# Arduino-Tiva-TM4C123G
+# Roadrunner
 Arduino clone based on TI's TM4C123G, an ARM M4F running at 80 MHz.
 
 # Project Goal 
@@ -34,4 +34,4 @@ etc... See datasheet for more information
 
 ▢ Mass-production if enough people are interested
 
-![board image](https://github.com/jakeson21/Arduino-Tiva-TM4C123G/blob/master/images/IMGP2373.jpg)
+![board image](https://github.com/jakeson21/Roadrunner-TM4C123G/blob/master/images/IMGP2373.jpg)

@@ -1,52 +1,68 @@
-Reference, Value, Footprint, Datasheet, Description, Part #, Current , Drawing, Type
-"U1","TM4C123GH6PM","Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm","http://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf","ARM® Cortex®-M4F Tiva™ C Microcontroller IC 32-Bit 80MHz 256KB (256K x 8) FLASH 64-LQFP (10x10)","TM4C123GH6PMI7","","",""
-"SW1","RESET","Buttons_Switches_SMD_Local:SW_SPST_WS-TASV_4.5x4.5mm","http://katalog.we-online.de/em/datasheet/430181038816.pdf","","430181038816","","",""
-"R1","10k","Resistors_SMD:R_0603","http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1002V+7+WW","10k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film","ERJ-3EKF1002V","","",""
-"J3","RST","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"Y1","32.768Khz","Crystals_Local:Crystal_DS26_d2.0mm_l6.0mm_Horizontal_1EP_style1","http://cfd.citizen.co.jp/english/prod-tech/product/pdf/datasheet_TF/CFS-145%20CFS-206%20CFV-206_E.pdf","32.768kHz ±5ppm Crystal 12.5pF 35 kOhm -20°C ~ 70°C Through Hole Cylindrical Can, Radial","CFS-20632768HZFB","","",""
-"C1","24pF","Capacitors_SMD:C_0603","http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf","24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603","CC0603JRNPO9BN240","","",""
-"C2","24pF","Capacitors_SMD:C_0603",""
-"C4","10pF","Capacitors_SMD:C_0603","https://www.digikey.com/catalog/en/partgroup/c0g-np0-dielectric-commercial-grade/3830?mpart=C0603C100J5GACTU&vendor=399","CAP CER 10PF 50V C0G/NP0 0603","C0603C100J5GACTU","","",""
-"C3","10pF","Capacitors_SMD:C_0603","https://www.digikey.com/catalog/en/partgroup/c0g-np0-dielectric-commercial-grade/3830?mpart=C0603C100J5GACTU&vendor=399","24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603","C0603C100J5GACTU","","",""
-"Y2","16MHz","Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering","http://www.ndk.com/images/products/catalog/c_NX5032GA_e.pdf","16MHz ±20ppm Crystal 8pF 50 Ohm -10°C ~ 70°C Surface Mount 2-SMD, No Lead","NX5032GA-16MHZ-STD-CSK-4","","",""
-"C5","0.1uF","Capacitors_SMD:C_0603","http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf","6.3 V to 25 V, X5R/X7R ceramic chip","CC0603JRX7R8BB104","","",""
-"C6","22.0uF","Capacitors_SMD:C_0805","http://www.samsungsem.com/kr/support/library/product-catalog/__icsFiles/afieldfile/2016/09/27/MLCC.pdf","6.3 V to 25 V, X5R/X7R ceramic chip","CL21A226MOCLRNC","","",""
-"C8","22.0uF","Capacitors_SMD:C_0805","","6.3 V to 25 V, X5R/X7R ceramic chip","CL21A226MOCLRNC","","",""
-"C10","22.0uF","Capacitors_SMD:C_0805","","6.3 V to 25 V, X5R/X7R ceramic chip","CL21A226MOCLRNC","","",""
-"R2","1M","Resistors_SMD:R_0603","https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C283.pdf","1M Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film","ERJ-3EKF1004V","","",""
-"U2","LM1117IMPX-3.3","TO_SOT_Packages_SMD_Local:SOT-223-3Lead_TabPin2","http://www.ti.com/lit/ds/symlink/lm1117.pdf","Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4","LM1117IMPX-3.3/NOPB","","",""
-"R3","75","Resistors_SMD:R_0603","http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF75R0V+7+WW","75 Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film","ERJ-3EKF75R0V","","",""
-"D1","Green","LEDs:LED_0805","http://www.osram-os.com/Graphics/XPic9/00078860_0.pdf","Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric)","LG R971-KN-1","20mA","",""
-"J5V1","+5V","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J5","~HIB","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"C14","0.1uF","Capacitors_SMD:C_0603","http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf","CAP CER 0.1UF 25V X7R 0603","CC0603JRX7R8BB104","","",""
-"C13","1.0uF","Capacitors_SMD:C_0603","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61C105KA93-01.pdf","CAP CER 1UF 16V X5R 0603","GRM188R61C105KA93D","","",""
-"C12","2.2uF","Capacitors_SMD:C_0603","http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61C225KE15-01.pdf","CAP CER 2.2UF 16V X5R 0603","GRM188R61C225KE15D","","",""
-"J7","Power","Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm",""
-"J8","Analog","Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.54mm",""
-"J9","Digital","Socket_Strips:Socket_Strip_Straight_1x10_Pitch2.54mm",""
-"J10","Digital","Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm",""
-"J2","TCK","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J6","TMS","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J11","TDI","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J12","TDO","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J13","TXD","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"J14","RXD","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm",""
-"C7","0.1uF","Capacitors_SMD:C_0603","","6.3 V to 25 V, X5R/X7R ceramic chip","CC0603JRX7R8BB104","","",""
-"C9","0.1uF","Capacitors_SMD:C_0603","","6.3 V to 25 V, X5R/X7R ceramic chip","CC0603JRX7R8BB104","","",""
-"J16","+AREF","Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm",""
-"J15","-AREF","Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm",""
-"J20","SPI 0","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm",""
-"J21","SERIAL 1","Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm",""
-"J18","SERIAL 3, 4","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm",""
-"J19","SERIAL 2","Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm",""
-"J4","PF4","Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm",""
-"J17","SPI 2 (D6,D7)","Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm",""
-"J1","USB_OTG","Connectors_USB_Local:USB_Micro_B_FCI_10118192","https://media.digikey.com/pdf/Data%20Sheets/FCI%20PDFs/10118192-0001LF_Webpage.PDF","USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle","10118192-0001LF","","http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf",""
-"C16","22.0uF","Capacitors_SMD:C_0805","","6.3 V to 25 V, X5R/X7R ceramic chip","CL21A226MOCLRNC","","",""
-"C15","0.1uF","Capacitors_SMD:C_0603","","6.3 V to 25 V, X5R/X7R ceramic chip","CC0603JRX7R8BB104","","",""
-"R4","100","Resistors_SMD:R_0603","https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C283.pdf","100 Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film","ERJ-3EKF1000V","","",""
-"R5","R","Resistors_SMD:R_0805_HandSoldering",""
-"R6","R","Resistors_SMD:R_0805_HandSoldering",""
-"C17","22.0uF","Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand","http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf","22µF ±10% Molded Tantalum Capacitors 16V 2413 (6032 Metric) 1.6 Ohm","T491C226K016AT","","",""
-"C11","10.0uF","Capacitors_SMD:C_0805","","","","","","Tantalum"
+Source,D:/git-repos/Roadrunner-TM4C123G/Roadrunner.sch
+Kicad Rev,Eeschema 4.0.6
+Generated Date,7/30/2017 2:11:30 PM
+
+Title,Roadrunner (Arduino-Tiva)
+Company,Jacob Miller
+Revision,v1.1
+Date Issue,2017-07-22
+Comment,TM4C123G
+
+Reference,Value,Description,Part #,Drawing,Type,Current ,Library,Library Ref
+U1,TM4C123GH6PM,ARM® Cortex®-M4F Tiva™ C Microcontroller IC 32-Bit 80MHz 256KB (256K x 8) FLASH 64-LQFP (10x10),TM4C123GH6PMI7,,,,tm4c123gh6pm,TM4C123GH6PM
+SW1,RESET,,430181038816,,,,Roadrunner-cache,SW_PUSH
+R1,10k,10k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film,ERJ-3EKF1002V,,,,device,R
+J3,~RST,Roadrunner-cache,HEADER_1
+Y1,32.768Khz,32.768kHz ±5ppm Crystal 12.5pF 35 kOhm -20°C ~ 70°C Through Hole Cylindrical Can, Radial,CFS-20632768HZFB,,,,device,Crystal
+C1,24pF,24pF ±5% 50V Ceramic Capacitor C0G, NP0 0603,CC0603JRNPO9BN240,,,,device,C_Small
+C2,24pF,device,C_Small
+C4,10pF,CAP CER 10PF 50V C0G/NP0 0603,C0603C100J5GACTU,,,,device,C_Small
+C3,10pF,CAP CER 10PF 50V C0G/NP0 0603,C0603C100J5GACTU,,,,device,C_Small
+Y2,16MHz,16MHz ±20ppm Crystal 8pF 50 Ohm -10°C ~ 70°C Surface Mount 2-SMD, No Lead,NX5032GA-16MHZ-STD-CSK-4,,,,device,Crystal
+C5,0.1uF,6.3 V to 25 V, X5R/X7R ceramic chip,CC0603JRX7R8BB104,,,,device,C_Small
+C6,22.0uF,6.3 V to 25 V, X5R/X7R ceramic chip,CL21A226MOCLRNC,,,,device,C_Small
+C8,22.0uF,6.3 V to 25 V, X5R/X7R ceramic chip,CL21A226MOCLRNC,,,,device,C_Small
+C10,22.0uF,6.3 V to 25 V, X5R/X7R ceramic chip,CL21A226MOCLRNC,,,,device,C_Small
+R2,1M,1M Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film,ERJ-3EKF1004V,,,,device,R
+J5,~HIB,Roadrunner-cache,HEADER_1
+C14,0.1uF,CAP CER 0.1UF 25V X7R 0603,CC0603JRX7R8BB104,,,,device,C_Small
+C13,1.0uF,CAP CER 1UF 16V X5R 0603,GRM188R61C105KA93D,,,,device,C_Small
+C12,2.2uF,CAP CER 2.2UF 16V X5R 0603,GRM188R61C225KE15D,,,,device,C_Small
+J7,Power,conn,CONN_01X08
+J8,Analog,conn,CONN_01X06
+J9,Digital,conn,CONN_01X10
+J10,Digital,conn,CONN_01X08
+C7,0.1uF,6.3 V to 25 V, X5R/X7R ceramic chip,CC0603JRX7R8BB104,,,,device,C_Small
+C9,0.1uF,6.3 V to 25 V, X5R/X7R ceramic chip,CC0603JRX7R8BB104,,,,device,C_Small
+J16,+AREF,conn,CONN_01X02
+J15,-AREF,conn,CONN_01X02
+J20,SPI 0,conn,CONN_01X04
+J21,SERIAL 1,conn,CONN_01X02
+J19,SERIAL 2,conn,CONN_01X02
+J4,PF4,conn,CONN_01X01
+J17,SPI 2 (D22,D23),conn,CONN_01X02
+J1,USB_OTG,USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle,10118192-0001LF,http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf,,,conn,USB_OTG
+C16,22.0uF,6.3 V to 25 V, X5R/X7R ceramic chip,CL21A226MOCLRNC,,,,device,C_Small
+C15,0.1uF,6.3 V to 25 V, X5R/X7R ceramic chip,CC0603JRX7R8BB104,,,,device,C_Small
+R5,R,device,R
+R6,R,device,R
+C17,22.0uF,22µF ±10% Molded Tantalum Capacitors 16V 2413 (6032 Metric) 1.6 Ohm,T491C226K016AT,,,,device,CP
+C11,10.0uF,,,,Tantalum,,device,CP
+U2,LM1117-3.3,Linear Voltage Regulator IC Positive Fixed Output 3.3V 800mA SOT-223-4,LM1117,,,,regul,LM1117-3.3
+D3,Green,Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric),LG R971-KN-1,,,20mA,device,LED_ALT
+D2,Green,Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric),LG R971-KN-1,,,20mA,device,LED_ALT
+T1,M_Hole,Roadrunner-cache,M_Hole
+T3,M_Hole,Roadrunner-cache,M_Hole
+T2,M_Hole,Roadrunner-cache,M_Hole
+T4,M_Hole,Roadrunner-cache,M_Hole
+J14,SERIAL 3,conn,CONN_01X02
+J13,SERIAL 4,conn,CONN_01X02
+J2,JTAG,conn,CONN_01X04
+Q1,UM6K33N,,UM6K33NTN,,,,Roadrunner-cache,UM6K33N
+D4,Green,Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric),LG R971-KN-1,,,20mA,device,LED_ALT
+D5,Green,Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric),LG R971-KN-1,,,20mA,device,LED_ALT
+Q2,UM6K33N,,UM6K33NTN,,,,Roadrunner-cache,UM6K33N
+RN2,10k,RES ARRAY 4 RES 10K OHM 1206,YC164-JR-0710KL,,,,device,R_Pack04
+RN1,75,RES ARRAY 4 RES 75 OHM 1206,YC164-JR-0775RL,,,,device,R_Pack04
+J11,~WAKE,Roadrunner-cache,HEADER_1
+J6,VIn,conn,CONN_01X02

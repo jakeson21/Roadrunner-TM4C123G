@@ -17,7 +17,7 @@ LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=Arduino_Leo_Tiva.net
+LastNetListRead=Roadrunner.net
 PadDrill=0.3302
 PadDrillOvalY=0.3302
 PadSizeH=0.6679999999999999
@@ -35,7 +35,7 @@ BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
 [eeschema]
 version=1
-LibDir=../Arduino-Tiva-TM4C123G
+LibDir=../Roadrunner-TM4C123G
 [eeschema/libraries]
 LibName1=power
 LibName2=device
