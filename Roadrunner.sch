@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Roadrunner"
-Date "2017-08-19"
+Date "2019-01-08"
 Rev "v1.2"
 Comp "Jacob Miller"
 Comment1 "Arduino compatible board based on TI's TM4C123G"
@@ -213,7 +213,7 @@ F 0 "C5" H 1110 2820 50  0000 L CNN
 F 1 "0.1uF" H 1110 2670 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1100 2750 50  0001 C CNN
 F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf" H 1100 2750 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 1100 2750 60  0001 C CNN "Description"
+F 4 "CAP CER 0.1UF 25V X7R 0603" H 1100 2750 60  0001 C CNN "Description"
 F 5 "CC0603JRX7R8BB104" H 1100 2750 60  0001 C CNN "Part #"
 	1    1100 2750
 	1    0    0    -1  
@@ -238,7 +238,7 @@ P 2000 2750
 F 0 "C8" H 2010 2820 50  0000 L CNN
 F 1 "22.0uF" H 2010 2670 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 2000 2750 50  0001 C CNN
-F 3 "" H 2000 2750 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/library/product-catalog/__icsFiles/afieldfile/2016/09/27/MLCC.pdf" H 2000 2750 50  0001 C CNN
 F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 2000 2750 60  0001 C CNN "Description"
 F 5 "CL21A226MOCLRNC" H 2000 2750 60  0001 C CNN "Part #"
 	1    2000 2750
@@ -251,7 +251,7 @@ P 1400 3350
 F 0 "C10" H 1410 3420 50  0000 L CNN
 F 1 "22.0uF" H 1410 3270 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 1400 3350 50  0001 C CNN
-F 3 "" H 1400 3350 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/library/product-catalog/__icsFiles/afieldfile/2016/09/27/MLCC.pdf" H 1400 3350 50  0001 C CNN
 F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 1400 3350 60  0001 C CNN "Description"
 F 5 "CL21A226MOCLRNC" H 1400 3350 60  0001 C CNN "Part #"
 	1    1400 3350
@@ -591,8 +591,8 @@ P 1700 2750
 F 0 "C7" H 1710 2820 50  0000 L CNN
 F 1 "0.1uF" H 1710 2670 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1700 2750 50  0001 C CNN
-F 3 "" H 1700 2750 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 1700 2750 60  0001 C CNN "Description"
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf" H 1700 2750 50  0001 C CNN
+F 4 "CAP CER 0.1UF 25V X7R 0603" H 1700 2750 60  0001 C CNN "Description"
 F 5 "CC0603JRX7R8BB104" H 1700 2750 60  0001 C CNN "Part #"
 	1    1700 2750
 	1    0    0    -1  
@@ -604,8 +604,8 @@ P 1100 3350
 F 0 "C9" H 1110 3420 50  0000 L CNN
 F 1 "0.1uF" H 1110 3270 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1100 3350 50  0001 C CNN
-F 3 "" H 1100 3350 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 1100 3350 60  0001 C CNN "Description"
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf" H 1100 3350 50  0001 C CNN
+F 4 "CAP CER 0.1UF 25V X7R 0603" H 1100 3350 60  0001 C CNN "Description"
 F 5 "CC0603JRX7R8BB104" H 1100 3350 60  0001 C CNN "Part #"
 	1    1100 3350
 	1    0    0    -1  
@@ -1074,7 +1074,7 @@ P 2000 3350
 F 0 "C16" H 2010 3420 50  0000 L CNN
 F 1 "22.0uF" H 2010 3270 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805" H 2000 3350 50  0001 C CNN
-F 3 "" H 2000 3350 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/library/product-catalog/__icsFiles/afieldfile/2016/09/27/MLCC.pdf" H 2000 3350 50  0001 C CNN
 F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 2000 3350 60  0001 C CNN "Description"
 F 5 "CL21A226MOCLRNC" H 2000 3350 60  0001 C CNN "Part #"
 	1    2000 3350
@@ -1087,8 +1087,8 @@ P 1700 3350
 F 0 "C15" H 1710 3420 50  0000 L CNN
 F 1 "0.1uF" H 1710 3270 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1700 3350 50  0001 C CNN
-F 3 "" H 1700 3350 50  0001 C CNN
-F 4 "6.3 V to 25 V, X5R/X7R ceramic chip" H 1700 3350 60  0001 C CNN "Description"
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_17.pdf" H 1700 3350 50  0001 C CNN
+F 4 "CAP CER 0.1UF 25V X7R 0603" H 1700 3350 60  0001 C CNN "Description"
 F 5 "CC0603JRX7R8BB104" H 1700 3350 60  0001 C CNN "Part #"
 	1    1700 3350
 	1    0    0    -1  
@@ -1726,13 +1726,7 @@ $EndComp
 Wire Wire Line
 	8300 5850 8300 5950
 Wire Wire Line
-	8300 6250 8400 6250
-Wire Wire Line
-	8400 6150 8300 6150
-Connection ~ 8300 6150
-Wire Wire Line
 	8400 6050 8300 6050
-Connection ~ 8300 6050
 Wire Wire Line
 	8400 5950 8300 5950
 Connection ~ 8300 5950
@@ -1917,10 +1911,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 6100 8900 6000
 Wire Wire Line
-	8300 6150 8300 6250
-Wire Wire Line
-	8300 6050 8300 6150
-Wire Wire Line
 	8300 5950 8300 6050
 Wire Wire Line
 	2000 3500 2000 3550
@@ -1932,4 +1922,24 @@ Wire Wire Line
 	1100 2900 1100 2950
 Wire Notes Line
 	7800 5350 11200 5350
+$Comp
+L power:+5V #PWR0101
+U 1 1 5C369140
+P 8000 5850
+F 0 "#PWR0101" H 8000 5700 50  0001 C CNN
+F 1 "+5V" H 8000 5990 50  0000 C CNN
+F 2 "" H 8000 5850 50  0001 C CNN
+F 3 "" H 8000 5850 50  0001 C CNN
+	1    8000 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 6150 8000 6150
+Wire Wire Line
+	8000 6150 8000 5850
+Wire Wire Line
+	8400 6250 8000 6250
+Wire Wire Line
+	8000 6250 8000 6150
+Connection ~ 8000 6150
 $EndSCHEMATC
