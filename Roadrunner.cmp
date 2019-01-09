@@ -1,0 +1,819 @@
+Cmp-Mod V01 Created by PcbNew   date = 9/11/2018 9:53:22 PM
+
+BeginCmp
+TimeStamp = 598B7FB4
+Path = 
+Reference = RoadrunnerLogoMedium;
+ValeurCmp = G***;
+IdModule  = Project-Symbols_Local:RoadrunnerLogoMedium;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987CB97
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987C841
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987C83D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987C839
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987C835
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987C7EC
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6D84
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672983
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967285F
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596728DD
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672909
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672911
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596728FD
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672905
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672919
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6D98
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6D8C
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5976BA6C
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E921F4
+Path = /58E98FF0
+Reference = J17;
+ValeurCmp = SPI 2 (D22,D23);
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5965996B
+Path = /58E9272E
+Reference = J20;
+ValeurCmp = SPI 0;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED8A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED86
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED82
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED7E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED7A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596BED71
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6DA8
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6DA4
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6DA0
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6D9C
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A6D94
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967298B
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672987
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967297F
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E06B9D
+Path = /58DFF148
+Reference = U1;
+ValeurCmp = TM4C123GH6PM;
+IdModule  = Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967291D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672915
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967290D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59672901
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596728E1
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596728D9
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.33mm;
+IdModule  = Custom-Mounting-Holes:VIA-0.33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F4180B
+Path = /58DFF60F
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = Buttons_Switches_SMD_Local:SW_SPST_WS-TASV_4.5x4.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F4F1
+Path = /5963099D
+Reference = J14;
+ValeurCmp = SERIAL 3;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F037AD
+Path = /58EB4610
+Reference = C15;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E06BB0
+Path = /58E01C25
+Reference = Y2;
+ValeurCmp = 16MHz;
+IdModule  = Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E15F61
+Path = /58E15CFD
+Reference = J9;
+ValeurCmp = Digital;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E06B30
+Path = /58E0078A
+Reference = J3;
+ValeurCmp = ~RST;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E15F49
+Path = /58E15BFD
+Reference = J7;
+ValeurCmp = Power;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E15F53
+Path = /58E15C60
+Reference = J8;
+ValeurCmp = Analog;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E15F6D
+Path = /58E15D8C
+Reference = J10;
+ValeurCmp = Digital;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E921EE
+Path = /58E987B8
+Reference = J4;
+ValeurCmp = PF4;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E92202
+Path = /58E96173
+Reference = J19;
+ValeurCmp = SERIAL 2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E92210
+Path = /58E931AF
+Reference = J21;
+ValeurCmp = SERIAL 1;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58EB64A4
+Path = /58EB85DF
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58EB64AA
+Path = /58EB8692
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F036D8
+Path = /58E00FE0
+Reference = C1;
+ValeurCmp = 24pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F036E8
+Path = /597EDDE2
+Reference = C2;
+ValeurCmp = 24pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F036F8
+Path = /58E01BE4
+Reference = C3;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03708
+Path = /58E01BA7
+Reference = C4;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03718
+Path = /58E031A2
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03728
+Path = /58E031FD
+Reference = C6;
+ValeurCmp = 22.0uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03738
+Path = /58E03232
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03748
+Path = /58E03267
+Reference = C8;
+ValeurCmp = 22.0uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03758
+Path = /58E0329E
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03768
+Path = /58E032D7
+Reference = C10;
+ValeurCmp = 22.0uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F0377D
+Path = /58E09CFF
+Reference = C12;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F0378D
+Path = /58E09CB2
+Reference = C13;
+ValeurCmp = 1.0uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F0379D
+Path = /58E09C45
+Reference = C14;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F037BD
+Path = /58EB4570
+Reference = C16;
+ValeurCmp = 22.0uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F037CD
+Path = /58EEED0B
+Reference = C17;
+ValeurCmp = 22.0uF;
+IdModule  = Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F03987
+Path = /58F09576
+Reference = C11;
+ValeurCmp = 10.0uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59629E54
+Path = /58DFF68C
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59629E59
+Path = /58E05771
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F036
+Path = /5963044C
+Reference = T1;
+ValeurCmp = M_Hole;
+IdModule  = Custom-Mounting-Holes:ArduinoMountingHole_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F03C
+Path = /596305A4
+Reference = T2;
+ValeurCmp = M_Hole;
+IdModule  = Custom-Mounting-Holes:ArduinoMountingHole_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F048
+Path = /59630645
+Reference = T4;
+ValeurCmp = M_Hole;
+IdModule  = Custom-Mounting-Holes:ArduinoMountingHole_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F042
+Path = /59630519
+Reference = T3;
+ValeurCmp = M_Hole;
+IdModule  = Custom-Mounting-Holes:ArduinoMountingHole_3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5962F4EB
+Path = /59630A41
+Reference = J13;
+ValeurCmp = SERIAL 4;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59658C16
+Path = /58DFBFC7
+Reference = J1;
+ValeurCmp = USB_OTG;
+IdModule  = Connectors_USB_Local:USB_Micro_B_FCI_10118192;
+EndCmp
+
+BeginCmp
+TimeStamp = 59659025
+Path = /58E06F9D
+Reference = J5;
+ValeurCmp = ~HIB;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5965911C
+Path = /58E82BD2
+Reference = J15;
+ValeurCmp = -AREF;
+IdModule  = Custom-Mounting-Holes:NetTie-I_Connected_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 59659121
+Path = /58E81595
+Reference = J16;
+ValeurCmp = +AREF;
+IdModule  = Custom-Mounting-Holes:NetTie-I_Connected_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 596A70BE
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_12mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_12mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 596EDEB8
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_9.8x8mm_SilkScreen;
+IdModule  = Symbols:OSHW-Logo2_9.8x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5974F975
+Path = /59742DBB
+Reference = RN2;
+ValeurCmp = 10k;
+IdModule  = Project-Symbols_Local:YC164-JR-0775RL;
+EndCmp
+
+BeginCmp
+TimeStamp = 59751830
+Path = /59742E74
+Reference = RN1;
+ValeurCmp = 75;
+IdModule  = Project-Symbols_Local:YC164-JR-0775RL;
+EndCmp
+
+BeginCmp
+TimeStamp = 59751E3A
+Path = /5908BBBE
+Reference = U2;
+ValeurCmp = LM1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 597555F1
+Path = /59756244
+Reference = J11;
+ValeurCmp = ~WAKE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59755BED
+Path = /5965AB2A
+Reference = J2;
+ValeurCmp = JTAG;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5976B9B2
+Path = /58E00F4F
+Reference = Y1;
+ValeurCmp = 32.768Khz;
+IdModule  = Project-Symbols_Local:Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal_1EP_style1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5976BC4E
+Path = /5976E12C
+Reference = J6;
+ValeurCmp = VIn;
+IdModule  = Custom-Mounting-Holes:NetTie-I_Connected_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5987CDAE
+Path = 
+Reference = REF**;
+ValeurCmp = Fiducial_1mm_Dia_2.54mm_Outer_CopperTop;
+IdModule  = Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop;
+EndCmp
+
+BeginCmp
+TimeStamp = 598AE77B
+Path = 
+Reference = RoadrunnerLogoSmall;
+ValeurCmp = G***;
+IdModule  = Project-Symbols_Local:RoadrunnerLogoSmall;
+EndCmp
+
+BeginCmp
+TimeStamp = 59924F27
+Path = /5962C24F
+Reference = D2;
+ValeurCmp = Green;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59924F2C
+Path = /5962AE43
+Reference = D3;
+ValeurCmp = Green;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59924F31
+Path = /5973775B
+Reference = D4;
+ValeurCmp = Green;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59924F36
+Path = /59737773
+Reference = D5;
+ValeurCmp = Green;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59925248
+Path = /5973E8F5
+Reference = Q1;
+ValeurCmp = UM6K33N;
+IdModule  = TO_SOT_Packages_SMD:SOT-363_SC-70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 59925251
+Path = /597377A1
+Reference = Q2;
+ValeurCmp = UM6K33N;
+IdModule  = TO_SOT_Packages_SMD:SOT-363_SC-70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 599258E0
+Path = /599291D6
+Reference = J12;
+ValeurCmp = Power;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 599258E8
+Path = /5992936E
+Reference = J18;
+ValeurCmp = Ground;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+EndListe

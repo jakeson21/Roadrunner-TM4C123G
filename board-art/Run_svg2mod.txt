@@ -1,0 +1,5 @@
+svg2mod.py -i ..\Roadrunner-TM4C123G\board-art\traced_roadrunner.svg -o ..\Roadrunner-TM4C123G\board-art\traced_roadrunner_large_mod --name RoadrunnerLogoLarge -p 2 -f 0.8
+
+svg2mod.py -i ..\Roadrunner-TM4C123G\board-art\traced_roadrunner.svg -o ..\Roadrunner-TM4C123G\board-art\traced_roadrunner_medium_mod --name RoadrunnerLogoMedium -p 2 -f 0.5
+
+svg2mod.py -i ..\Roadrunner-TM4C123G\board-art\traced_roadrunner.svg -o ..\Roadrunner-TM4C123G\board-art\traced_roadrunner_small_mod --name RoadrunnerLogoSmall -p 2 -f 0.1
